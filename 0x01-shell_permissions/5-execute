@@ -1,1 +1,2 @@
-chmod 764 hello
+#!/bin/bash
+su chmod 764 hello
